@@ -1,5 +1,7 @@
 # BrambleTread Support
 
+This page contains Korean and English in one document for App Store Connect and future multilingual expansion.
+
 ## Korean
 
 ### 지원 문의
