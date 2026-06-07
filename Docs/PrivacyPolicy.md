@@ -2,6 +2,8 @@
 
 Last updated: June 8, 2026
 
+This page contains Korean and English in one document for App Store Connect and future multilingual expansion.
+
 ## Korean
 
 ### 개인정보 처리방침
