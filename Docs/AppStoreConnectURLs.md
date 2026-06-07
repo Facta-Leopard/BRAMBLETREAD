@@ -1,8 +1,8 @@
 # BrambleTread App Store Connect URLs
 
-Use these public URLs in App Store Connect:
+Use these GitHub Pages URLs in App Store Connect:
 
-- Privacy Policy URL: https://github.com/Facta-Leopard/BRAMBLETREAD/blob/main/Docs/PrivacyPolicy.md
-- Support URL: https://github.com/Facta-Leopard/BRAMBLETREAD/blob/main/Docs/Support.md
+- Privacy Policy URL: https://facta-leopard.github.io/BRAMBLETREAD/Docs/PrivacyPolicy.html
+- Support URL: https://facta-leopard.github.io/BRAMBLETREAD/Docs/Support.html
 
-The repository is public, so both documents are accessible without authentication.
+Both pages include Korean and English in the same document. Do not split them into separate `ko` or `en` files unless App Store Connect requirements change.
