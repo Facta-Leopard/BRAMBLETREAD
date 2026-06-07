@@ -12,6 +12,7 @@
 
 - 개인정보 처리방침: https://facta-leopard.github.io/BRAMBLETREAD/Docs/PrivacyPolicy.html
 - 지원 URL: https://facta-leopard.github.io/BRAMBLETREAD/Docs/Support.html
+- app-ads.txt: https://facta-leopard.github.io/BRAMBLETREAD/app-ads.txt
 
 개인정보 처리방침과 지원 문서는 언어별 파일을 분리하지 않고, 한 페이지 안에서 한국어와 영어를 함께 제공한다.
 
